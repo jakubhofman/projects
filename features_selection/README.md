@@ -1,4 +1,4 @@
-FEATURE SELECTION
+
 Study on feature selection methods for machine learning.
 Three algorithms :
 1.  Scoring fucntion: ANOVA
