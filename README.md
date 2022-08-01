@@ -1,4 +1,10 @@
 # projects
 Final version of my DS projects
 
-1. __Classifier efectivness:__ 
+1. __Classifier efectivness:__  ML classifiers comparison using different metrics and different evaluation methods.
+
+2. __EDA and hypothesis testing:_ exploratory data analysis of online auction platform data
+
+3. __Feature selection: __ Deep analysis of ML feature selection methods
+
+4. __Multithreaded programming:__ multithreaded image processing. Producer->Consuner challange
