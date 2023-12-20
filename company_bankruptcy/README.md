@@ -1,18 +1,20 @@
-Company bankruptcy 
+__Company bankruptcy__
+
 The project concerned the creation of model that predicts the bankruptcy of a company 
 basing on true, financial data and F1 as a metric. 
+
 
 **Result**: Final model beats the best results of internal (data workshop) Kaggle competition.
 
 
 **Final model** is  ensmeble model composed of 'XGBClassifier', 'CatBoostClassifier' and 'GaussianNB'. Basics models were
 trained using proba threshold set on 0.1 with selected features for each model. Basic models predictions were merged 
-using voting : three 'ones' neccessary to set class 1 in final prediction.
-
-Projects experiment involved set of different basic models: 'LGBMClassifier', 'XGBClassifier', 'CatBoostClassifier',
+using voting : three 'ones' neccessary to set class 1 in final prediction. Projects experiments involved
+set of different basic models: 'LGBMClassifier', 'XGBClassifier', 'CatBoostClassifier',
 'GaussianNB', 'RandomForestClassifier', proba thresholds, featrue selections and ensemble methods. 
 
 ***Key factor to achieve best results :***
+
 **proba_threshold** - expermineted with different values. Eventually 0.1 raised the metric by 12 points.
 
 **Feature selection** : for each basic model specific set of features was selected. Method of selection involved 
