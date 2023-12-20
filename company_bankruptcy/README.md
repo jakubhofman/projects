@@ -26,9 +26,9 @@ mean_negative for class 1. Each method was tested with different set of features
 method was chosen as final one for the basic model.
 
 **Ensemble learning**: two different approaches were used. Meta model (logistic regression) to merged the prediction
-of basic model and voting. Different set of models were tested. Final model describe above. 
+of basic model and voting. Different set of models were tested. Final model described above. 
 
-**Hiperparemeters** : tested but eventually not included in final model due to poor results of optimization
+**Hiperparemeters** : tested but eventually not included in final model due to poor results of optimization.
 
 
 
