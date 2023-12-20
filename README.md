@@ -8,3 +8,5 @@ Final version of my DS projects
 3. __Feature selection:__ Deep analysis of ML feature selection methods
 
 4. __Multithreaded programming:__ multithreaded image processing. Producer->Consuner challange
+
+5. __Company bankruptcy:__ classification ensemble model 
