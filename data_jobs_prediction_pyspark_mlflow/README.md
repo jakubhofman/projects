@@ -1,6 +1,9 @@
 DS/ML salary prediction - project description
+
 Objective: showcase proficiency in pyspark, mlflow and databricks through real data and ML project.
+
 ML project objective: predict salary.
+
 Datasets : Data scrubbed from ai-jobs.net into parquet file containing following columns:
 title - job title
 location - including city, country, region and others
