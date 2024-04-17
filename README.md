@@ -9,4 +9,6 @@ Final version of my DS projects
 
 4. __Multithreaded programming:__ multithreaded image processing. Producer->Consuner challange
 
-5. __Company bankruptcy:__ classification ensemble model 
+5. __Company bankruptcy:__ classification ensemble model
+
+6. __Dat_Jobs:__ regression model on PySpark and MLFlow
